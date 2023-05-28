@@ -7,7 +7,7 @@ const index = () => {
   return (
     <>
       <Head>
-        <title>About</title>
+        <title>Mohamed Yasser | Frontend Developer | Portfolio</title>
       </Head>
       <motion.div
         className="flex flex-col flex-grow px-6 pt-1 "

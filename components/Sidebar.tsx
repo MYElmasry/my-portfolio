@@ -34,12 +34,17 @@ const Sidebar = (props: Props) => {
 
       {/* social icons */}
       <div className="flex justify-around w-9/12 mx-auto my-5 text-green md:w-full">
-        <a href="https://github.com/MYElmasry" target="_blank">
+        <a
+          href="https://github.com/MYElmasry"
+          target="_blank"
+          aria-label="GitHub"
+        >
           <AiFillGithub className="w-8 h-8 cursor-pointer" />
         </a>
         <a
           href="https://www.linkedin.com/in/mohamed-elmasry8822/"
           target="_blank"
+          aria-label="LinkedIn"
         >
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
         </a>

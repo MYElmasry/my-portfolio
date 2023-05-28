@@ -11,7 +11,7 @@ const Resume = (props: Props) => {
   return (
     <>
       <Head>
-        <title>Resume</title>
+        <title>Mohamed Yasser | Frontend Developer | Resume</title>
       </Head>
       <motion.div
         className="px-6 py-2 "

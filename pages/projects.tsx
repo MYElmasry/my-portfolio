@@ -39,7 +39,7 @@ const Projects = (props: Props) => {
   return (
     <>
       <Head>
-        <title>Projects</title>
+        <title>Mohamed Yasser | Frontend Developer | Projects</title>
       </Head>
       <motion.div
         variants={routeAnimation}
