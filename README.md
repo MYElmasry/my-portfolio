@@ -4,7 +4,7 @@ My Portfolio shows some information about myself, projects that I worked on and 
 
 ## Live Demo
 
-You can view a live demo of the Nile Mart website [here](https://my-portfolio-myelmasry.vercel.app/).
+You can view a live demo of my portfolio [here](https://my-portfolio-myelmasry.vercel.app/).
 
 ## Libraries and Frameworks Used
 
